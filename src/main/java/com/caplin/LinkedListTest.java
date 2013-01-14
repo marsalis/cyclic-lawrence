@@ -1,4 +1,4 @@
-package com.caplin.interview.test;
+package com.caplin;
 
 public class LinkedListTest
 {
